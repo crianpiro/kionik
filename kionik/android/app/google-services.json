@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "425688404180",
+    "firebase_url": "https://kionik-b1e31.firebaseio.com",
+    "project_id": "kionik-b1e31",
+    "storage_bucket": "kionik-b1e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425688404180:android:9a66e9df37f7b37577eb41",
+        "android_client_info": {
+          "package_name": "com.example.kionik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425688404180-njonpi3vrjarg5fegng9k5v2aarc72e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwoRrCUNwYhLqNoTgdNX2Y7CNDz0GhBPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425688404180-njonpi3vrjarg5fegng9k5v2aarc72e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
